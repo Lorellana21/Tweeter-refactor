@@ -1,0 +1,34 @@
+[
+          {  
+            "id": "1",
+            "fullname": "Rafa Miranda",
+            "username": "@rmiranda",
+            "content": "React es lo mejor después del tinto con limón",
+            "comments": 11,
+            "retweets": 14,
+            "favs": 54,
+            "time": "20m"
+          },
+          {
+            "id": "2",
+            "fullname": "Posti",
+            "username": "@posti",
+            "content": "Algunos dicen que React es lo mejor, yo digo que Javascript",
+            "comments": 25,
+            "retweets": 31,
+            "favs": 63,
+            "time": "1h"
+          },
+          {
+            "id": "3",
+            "fullname": "John Doe",
+            "username": "@john_doe",
+            "content": "Aprendiendo React en AtSistemas =)",
+            "comments": 10,
+            "retweets": 15,
+            "favs": 40,
+            "time": "ayer"
+          }
+          
+]
+      

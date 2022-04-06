@@ -1,0 +1,61 @@
+.tweetsList {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  border-right: 1px solid lightgray;
+}
+
+.tweetItem {
+    display: flex;
+    padding: 15px;
+    flex: 0 0 auto;
+    border-bottom: 1px solid lightgray;
+  }
+  
+  /* .columnTweetProfile {
+    width: 49px;
+    margin-right: 12px;
+  } */
+  .row {
+    display: flex;
+    flex: 1 1 100%;
+  }
+  
+  
+  .grayText {
+    color: gray;
+  }
+  
+  .tweetFullname {
+    margin: 0;
+  }
+  
+  .tweetContent {
+    margin: 5px 0; 
+  }
+  
+  .tweetActions {
+    max-width: 90%;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    flex: 1 1 auto;
+  }
+  
+  .tweetActionsLink {
+    display: flex;
+    align-items: center;
+  }
+  
+  .tweetActionsImg {
+    width: 19px;
+    height: 19px;
+    margin-right: 7px;
+  }
+  
+  .tweetActionsText {
+    font-size: 13px;
+    color: gray;
+  }
+  

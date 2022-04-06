@@ -1,0 +1,9 @@
+.menuLeftLogoWrapper {
+    min-width: 275px;
+  }
+  
+  .logo {
+    width: 1.5em;
+    height: 2rem;
+    fill: rgb(29, 161, 242);
+  }

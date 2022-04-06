@@ -1,0 +1,18 @@
+.menuItem {
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  
+  .menuItemIconActive {
+    width: 1.5em;
+    height: 2rem;
+    margin-right: 7px;
+    fill: rgb(29, 161, 242);
+  }
+  
+  .menuItemLinkActive {
+    margin: 15px 15px 15px 20px;
+    color: rgb(29, 161, 242);
+  }

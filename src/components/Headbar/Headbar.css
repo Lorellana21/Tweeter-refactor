@@ -1,0 +1,23 @@
+
+  
+
+.headbar {
+    border-bottom: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-right: 1px solid lightgray;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
+  .headbarTitle {
+    font-size: 19px;
+  }
+  
+  .profileIcon {
+    width: 21px;
+    height: 21px;
+  }
+  

@@ -1,0 +1,11 @@
+.formButton {
+    background-color: rgba(29, 161, 242);
+    border-radius: 9999px;
+    border: 0;
+    color: #fff;
+    height: 0;
+    width: 85px;
+    min-height: 36px;
+    font-size: 15px;
+  }
+  

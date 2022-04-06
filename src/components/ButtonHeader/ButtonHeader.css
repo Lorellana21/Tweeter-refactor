@@ -1,0 +1,18 @@
+.menuLeftButtonWrapper {
+    min-width: 275px;
+    display: flex;
+    flex: 1 1 auto;
+  }
+  .button {
+    background-color: rgba(29, 161, 242);
+    border-radius: 9999px;
+    font-size: 15px;
+    width: 90%;
+    min-height: 49px;
+    border: 0;
+    color: #fff;
+    height: 0;
+  }
+  
+  
+  

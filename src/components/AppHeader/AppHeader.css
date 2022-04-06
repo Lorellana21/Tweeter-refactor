@@ -1,0 +1,41 @@
+.menuLeft {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    border-right: 1px solid lightgray;
+  }
+  
+  
+  
+  .menuLeftLogoWrapper,
+  .menuLeftMenuWrapper {
+    min-width: 275px;
+  }
+  
+
+  
+  .menuLeftProfileWrapper {
+    min-width: 275px;
+    display: flex;
+    align-items: center;
+    padding-bottom: 25px;
+    margin-top: 34px;
+  }
+  
+  .userProfileWrapperImg {
+    display: flex;
+    width: 39px;
+    height: 39px;
+    align-items: center;
+    margin-right: 10px;
+  }
+  
+  .userInfoText {
+    margin: 0;
+  }
+  
+  .username {
+    margin: 0;
+    color: gray;
+  }
+  

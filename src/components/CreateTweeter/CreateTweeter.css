@@ -1,0 +1,33 @@
+.createTweetWrapper {
+    display: flex;
+    padding: 15px;
+    align-items: flex-start;
+    border-bottom: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+  }
+  
+  .columnProfile {
+    margin-right: 12px;
+  }
+  
+  .profileImage {
+    width: 49px;
+    height: 49px;
+  }
+  
+  .columnCreate {
+    display: flex;
+    flex: 1 1 100%;
+  }
+  
+  .createInput {
+    min-height: 49px;
+    border: 0;
+    font-size: 19px;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+  }
+  
